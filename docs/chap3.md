@@ -37,8 +37,6 @@ setInterval(() => {
     console.log("This function will be execute every 3 seconds.");
 }, 3000);
 ```
-> [!CAUTION]
-> You shouldn't treat `setInterval()` like a loop, because it's not.
 ### Clearing schedules
 Both `setTimeout()` and `setInterval()` return the schedule IDs that are needed to call `clearTimeout()` or `clearInterval()`.
 ```js
