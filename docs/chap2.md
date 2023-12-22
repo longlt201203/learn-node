@@ -12,7 +12,8 @@ const person = {
 console.log(person.firstname);
 // result: Long
 ```
-**_Note_**: A _dynamic_ data type is a data type that is not have a clear prototype to follow (which means you can put whatever you want in it).
+> [!NOTE]
+> A _dynamic_ data type is a data type that is not have a clear prototype to follow (which means you can put whatever you want in it).
 
 The JSON prepresentation of the object above is:
 ```json
@@ -68,7 +69,8 @@ const p1 = {
 ```
 This is not a good way to do prototyping but at least it works. We will discuss a more propriate way bellow.
 
-**_Note_**: You can learn to use JSDoc [here](https://jsdoc.app/) (Good luck with that 😂😂😂).
+> [!NOTE]
+> You can learn to use JSDoc [here](https://jsdoc.app/) (Good luck with that 😂😂😂).
 ## Function
 In my opinion, function is the most powerful feature in Javascript. Here are some advance usages of function in JS:
 ### Function as a variable

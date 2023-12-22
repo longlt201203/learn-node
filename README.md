@@ -6,3 +6,5 @@ You can reference to [NodeJS official document](https://nodejs.org/en/learn/gett
 [Chapter 1: Introduction to Javascript and NodeJS](./docs/chap1.md)
 
 [Chapter 2: Objects and Functions](./docs/chap2.md)
+
+[Chapter 3: Asynchronous Programming with NodeJS](./docs/chap3.md)

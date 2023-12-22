@@ -27,7 +27,8 @@ v20.10.0
 ## Hello World!
 Now it's time to write your first Javascript program!
 
-**_Note_**: You should create a folder for later use.
+> [!NOTE]
+> You should create a folder for later use.
 
 Create a file called `hello.js` in your folder and write something like this:
 ```js
@@ -44,7 +45,8 @@ console.log("Hello World!")
 console.log("Welcome to NodeJS tutorial!")
 console.log("Nice to meet you!")
 ```
-**_Note_**: statement in JS is recognized by a new line or a semicolon ';' at the end or both.
+> [!NOTE]
+> Statement in JS is recognized by a new line or a semicolon ';' at the end or both.
 
 It is a good pratice for us to not write anything anywhere in our program, so let's create a function and group our code together:
 ```js
